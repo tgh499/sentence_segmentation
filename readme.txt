@@ -1,3 +1,5 @@
+#TODO: Refactor the code.
+
 The program is verified to work with python3. 
 
 Depending on your system, you might run the program in two ways:
